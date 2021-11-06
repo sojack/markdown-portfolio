@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Most of my programming is done in **Javascript** however I have used **Python** and **Ruby** in the past, as well as **Matlab**.
+
+3D renderings are done in **Blender** and everything else in _Adobe Creative Suite_
