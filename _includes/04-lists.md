@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+Expertise:
+* Design
+* Photography
+* Web development
+* 3D rendering
+
+Favorite activities:
+* Swimming
+* Running
+* Canoeing
